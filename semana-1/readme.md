@@ -5,7 +5,7 @@ Visando uma avaliação mais ágil e eficaz da evolução do plano de ação, de
 ### Estrutura de pastas
 
   - Semana 19
-    - Criar um projeto em APS.NET em 3 Camadas
+    - Criar um projeto em ASP.NET em 3 Camadas
         - UI - Camada de interface
         - BLL - Camada de Negócio
         - DAL - Camada de acesso de dados
