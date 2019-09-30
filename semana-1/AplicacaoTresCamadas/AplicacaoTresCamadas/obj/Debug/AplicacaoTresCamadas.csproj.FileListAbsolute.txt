@@ -1,0 +1,11 @@
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/bin/AplicacaoTresCamadas.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/bin/AplicacaoTresCamadas.pdb
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/bin/BLL.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/bin/DAO.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/bin/BLL.pdb
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/bin/DAO.pdb
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/obj/Debug/AplicacaoTresCamadas.csprojAssemblyReference.cache
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/obj/Debug/AplicacaoTresCamadas.csproj.CoreCompileInputs.cache
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/obj/Debug/AplicacaoTresCamadas.csproj.CopyComplete
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/obj/Debug/AplicacaoTresCamadas.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/AplicacaoTresCamadas/obj/Debug/AplicacaoTresCamadas.pdb

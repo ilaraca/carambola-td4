@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{64C86DA9-60D7-40DE-A5C5-A3F407DA3A74}|">
+  <MonoDevelop.Ide.ItemProperties.AplicacaoTresCamadas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLL/Bll.cs">
+    <Files>
+      <File FileName="BLL/Bll.cs" Line="7" Column="1" />
+      <File FileName="DAO/Dao.cs" Line="6" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AplicacaoTresCamadas" expanded="True">
+            <Node name="AplicacaoTresCamadas" expanded="True">
+              <Node name="Default.aspx" expanded="True" />
+            </Node>
+            <Node name="BLL" expanded="True">
+              <Node name="Bll.cs" selected="True" />
+            </Node>
+            <Node name="DAO" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

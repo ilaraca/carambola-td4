@@ -1,0 +1,5 @@
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/DAO/bin/Debug/DAO.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/DAO/bin/Debug/DAO.pdb
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/DAO/obj/Debug/DAO.csproj.CoreCompileInputs.cache
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/DAO/obj/Debug/DAO.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/DAO/obj/Debug/DAO.pdb

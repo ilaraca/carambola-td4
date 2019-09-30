@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoTresCamadas", "AplicacaoTresCamadas\AplicacaoTresCamadas.csproj", "{64C86DA9-60D7-40DE-A5C5-A3F407DA3A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D61C330F-87A6-4A29-B80C-855CFA923EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{285101DF-328E-40FE-99B3-FE940F9ABA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C86DA9-60D7-40DE-A5C5-A3F407DA3A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C86DA9-60D7-40DE-A5C5-A3F407DA3A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C86DA9-60D7-40DE-A5C5-A3F407DA3A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C86DA9-60D7-40DE-A5C5-A3F407DA3A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61C330F-87A6-4A29-B80C-855CFA923EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61C330F-87A6-4A29-B80C-855CFA923EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61C330F-87A6-4A29-B80C-855CFA923EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61C330F-87A6-4A29-B80C-855CFA923EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285101DF-328E-40FE-99B3-FE940F9ABA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285101DF-328E-40FE-99B3-FE940F9ABA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285101DF-328E-40FE-99B3-FE940F9ABA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285101DF-328E-40FE-99B3-FE940F9ABA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

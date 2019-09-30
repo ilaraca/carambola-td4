@@ -1,0 +1,9 @@
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/bin/Debug/BLL.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/bin/Debug/BLL.pdb
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/bin/Debug/DAO.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/bin/Debug/DAO.pdb
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/obj/Debug/BLL.csproj.CopyComplete
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/obj/Debug/BLL.dll
+/Users/ilaraalmeida/carambola/touchdown-4/carambola-td4/semana-1/AplicacaoTresCamadas/BLL/obj/Debug/BLL.pdb
